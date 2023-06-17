@@ -1,0 +1,153 @@
+.header{
+	position: absolute;
+	width: 1480px;
+	height: 90px;
+	left: 0px;
+	top: 0px;
+	background: #8D75E3;
+}
+.header_logo{
+	position: absolute;
+	width: 35px;
+	height: 16px;
+	left: 160px;
+	top: 43px;
+	font-family: 'Raleway', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 14px;
+	line-height: 16px;
+	letter-spacing: 0.01em;
+	color: #15144E;
+}
+.nav{
+	font-size: 14px;
+	
+}
+.nav_glavnay{
+	position: absolute;
+	width: 56px;
+	height: 16px;
+	left: 289px;
+	top: 43px;
+	font-family: 'Raleway', sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 16px;
+	letter-spacing: 0.01em;
+	color: #15144E;
+}
+.nav_student{
+	position: absolute;
+	width: 75px;
+	height: 16px;
+	left: 390px;
+	top: 43px;
+	font-family: 'Raleway', sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 16px;
+	letter-spacing: 0.01em;
+	color: #15144E;
+}
+.nav_work{
+	position: absolute;
+	width: 107px;
+	height: 16px;
+	left: 502px;
+	top: 43px;
+	font-family: 'Raleway', sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 16px;
+	letter-spacing: 0.01em;
+	color: #15144E;
+}
+.nav_grupa{
+	position: absolute;
+	width: 51px;
+	height: 16px;
+	left: 645px;
+	top: 43px;
+	font-family: 'Raleway', sans-serif;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 16px;
+	letter-spacing: 0.01em;
+	color: #15144E;
+}
+.Chat{
+	position: absolute;
+	left: 1200px;
+	right: 2px;
+	top: 43px;
+	bottom:20px;
+	z-index: 3;
+	
+}
+.Kvadrat{
+	position: absolute;
+	width: 552px;
+	height: 693px;
+	left: 0px;
+	top: 107px;
+	
+}
+.lupa{
+	position: absolute;
+	width: 27.93px;
+	height: 26.8px;
+	left: 783px;
+	top: 40px;
+	z-index: 2;
+	border-radius: 5px;
+}
+.microphone{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 1448px;
+	top: 758px;
+}
+.Otprevit{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 1394px;
+	top: 758px;
+	z-index: 2;
+}
+.poisk{
+	position: absolute;
+	width: 360px;
+	height: 53px;
+	left: 760px;
+	top: 27px;
+	border-radius: 5px;
+}
+.Privat{
+	position: absolute;
+	width: 832px;
+	height: 35px;
+	left: 603px;
+	top: 753px;
+	border-radius: 100px;
+}
+.Skrepka{
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 572px;
+	top: 758px;
+}
+.Colocol{
+	position: absolute;
+	left: 1270px;
+	right: 2px;
+	top:43px;
+	bottom: 20px;
+}
